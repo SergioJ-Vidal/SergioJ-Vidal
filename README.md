@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @SergioJ-Vidal, I'm from Valencia (Spain), born in 1991-09-10.
+- 👋 Hi, I’m @Sergio Juan Vidal, I'm from Valencia (Spain), born in 1991-09-10.
 - 👀 I’m interested in web development.
 - 🌱 I’m currently learning html, css and javascript.
 - 💞️ I’m looking to collaborate on javascript projects.
